@@ -9,13 +9,13 @@ Fonctionnalités partie :
 
 Fonctionnalités déplacements :
 
--	Les joueurs ne sont pas en mesure de déplacer une pièce en dehors du plateau.
+-	Les joueurs ne sont pas en mesure de déplacer une pièce hors du plateau.
 
 -	Le roi se déplace d'une case dans toutes les directions.
 
--	Chaque pièces peut se déplacer uniquement sur ses positions autorisées.
+-	Chaque pièce ne peut se déplacer qu'à ses emplacements autorisés.
 
--	Il n’y a pas la possibilité de bouger une pièce sur une pièce de même couleur.
+-	Il est impossible de bouger une pièce sur une pièce de la même couleur.
 
 -	Le roi doit être à une case d'écart d'un autre roi.
 
